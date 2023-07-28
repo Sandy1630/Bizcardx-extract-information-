@@ -3,3 +3,8 @@
 **The extracted information would include the company name, card holder name,
 designation, mobile number, email address, website URL, area, city, state, and pin
 code.**
+**streamlit GUI**
+**SQL**
+**Data Extraction**
+**pandas** 
+**numby**
